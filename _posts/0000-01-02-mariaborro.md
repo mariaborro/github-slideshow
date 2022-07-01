@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Aquí entenc que puc posar el que vulgui
+Què divertit i wity aquest comentari ahahah
 Use the left arrow to go back!
